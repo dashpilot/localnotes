@@ -30,7 +30,7 @@
     <div class="sidebar-header">
         <div class="user-info">
             <div class="avatar">
-                <span>U</span>
+                <span>L</span>
             </div>
             <h3>My Notes</h3>
         </div>
