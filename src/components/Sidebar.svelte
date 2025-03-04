@@ -32,7 +32,7 @@
             <div class="avatar">
                 <span>L</span>
             </div>
-            <h3>My Notes</h3>
+            <h3>LocalNotes</h3>
         </div>
         <button class="toggle-btn" on:click={() => dispatch('toggleSidebar')}>
             <ChevronLeft size={18} />
